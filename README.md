@@ -20,5 +20,35 @@ https://drive.google.com/file/d/1hJOXNpOUXOpyjsrBt1O8MyIJHfWgzakS/view
 10.List all products where the category includes "Accessories."
 
 # KeyInsight
+💰 Affordable Products with High Discounts
+🔹 A large number of products are priced below ₹500, making them attractive to budget-conscious buyers. These can be strategically targeted in discount campaigns to boost sales among price-sensitive customers.
+
+🔥 High Discount Opportunities
+🔹 Over 50% of the catalog has discounts of 50% or more, potentially indicating clearance sales, high initial markups, or aggressive promotional strategies. Optimizing these discounts could maximize profitability while maintaining demand.
+
+🔌 Demand for Specific Products
+🔹 "Cable" appears frequently in product names, suggesting high demand for charging and connectivity accessories. This trend presents an opportunity for inventory expansion and focused marketing.
+
+💡 Price-Value Perception
+🔹 The gap between actual price and discounted price offers insights into how customers perceive value. Products with steep discounts might create a sense of a "great deal", which can be leveraged in promotional campaigns.
+
+⚡ Customer Preferences in Reviews
+🔹 Many reviews mention "fast charging", emphasizing its importance to customers. Highlighting this feature in product descriptions, advertisements, and SEO strategies could drive conversions.
+
+📉 Mid-Range Discount Products
+🔹 Products with 20%–40% discounts strike a balance between affordability and profitability. These items could be ideal for targeting quality-conscious buyers who still seek a good deal.
+
+🌟 Premium Products with High Ratings
+🔹 Products priced above ₹1,000 with 4+ star ratings attract quality-focused customers. Featuring these in premium marketing campaigns could further enhance their sales potential.
+
+🧠 Psychological Pricing Strategies
+🔹 Many discounted prices end in '9', leveraging the well-known "charm pricing" effect. Expanding this strategy across different categories might further enhance conversions.
+
+❌ Addressing Negative Customer Feedback
+🔹 Reviews with words like "worst," "waste," "poor," or "not good" highlight areas needing improvement. Addressing these through better product quality, customer support, or improved descriptions can significantly reduce dissatisfaction.
+
+🎧 Accessory Market Demand
+🔹 The Accessories category shows strong demand. Analyzing customer preferences for specific types of accessories can guide product expansion and targeted recommendations.
+
 
 
