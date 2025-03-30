@@ -68,7 +68,8 @@ By fine-tuning discount strategies, psychological pricing techniques, and target
 
 # Author
 DEVANK VERMA
-https://www.linkedin.com/in/devank-verma-ba4492262/
+
+LINKEDIN-https://www.linkedin.com/in/devank-verma-ba4492262/
 
 
 
